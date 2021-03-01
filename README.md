@@ -11,3 +11,9 @@ Errors:
 
 ![image](https://user-images.githubusercontent.com/76582849/109463543-326d5180-7a8b-11eb-9e35-47af4cb5b967.png)
 
+Comments:
+
+![image](https://user-images.githubusercontent.com/76582849/109463897-c808e100-7a8b-11eb-882a-f74c7191a4ba.png)
+
+The complier ignores the <b>Comments</b>
+
